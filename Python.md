@@ -119,6 +119,7 @@ Or use single quotes `' '` around the whole string and keep double quotes inside
 - The **`.lower()`** method is used to **convert all characters in a string to lowercase** (small letters).
 ### Split:
 - The **`.split()`** method is used to **break a string into a list of words**, based on a **separator** (default is space).
+[Python/String at main · mohamedmahmoud26/Python](https://github.com/mohamedmahmoud26/Python/tree/main/String)
 -------------------------------------------------------------------
 # Formatting
 
@@ -186,3 +187,4 @@ You can:
 You can format directly:
 
 `pi = 3.14159 print(f"Pi to 2 decimals: {pi:.2f}")`
+[Python/Formating at main · mohamedmahmoud26/Python](https://github.com/mohamedmahmoud26/Python/tree/main/Formating)
