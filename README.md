@@ -1,2 +1,2 @@
 # Python
-Course Python and many project
+Course Python And many project
